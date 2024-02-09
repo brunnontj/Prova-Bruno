@@ -43,7 +43,7 @@ const CadeiraGamerDaniel = 1;
 
 constDaniel = (precolaptop * laptopLeila) + (precoImpressora * impressoraLeila);
 
-const
+const ()
 
 
 
